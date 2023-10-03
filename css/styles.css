@@ -1,0 +1,40 @@
+
+body{
+    font-family:'Roboto',sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  .summary{
+    max-width: 550px;
+    height: 500px;
+    margin: 20px auto;
+    border-radius: 10px;
+  }
+
+  .result {
+    background-color: #472ada;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+
+  }
+
+
+  .btn{
+    width: 85%;
+    margin: 10px auto;
+    background-color: #313c5e;
+    border-radius: 15px;
+    color: white;
+    width: 95%;
+    height: 10%;
+    font-size: 25px;
+    line-height: 1px;
+    letter-spacing: 2px;
+  }
+
+  .btn:hover{
+    color: white;
+  }
